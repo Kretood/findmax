@@ -1,7 +1,7 @@
 # Nada app
 This is my first simple app built on nada, it finds max number from array of 10
 
-To run programm
+To run app, clone repo, install nada, create python venv and run:
 ```
 nada run test1
 ```
