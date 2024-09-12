@@ -1,0 +1,7 @@
+name = "findmax"
+version = "0.1.0"
+authors = ["Kretood"]
+
+[[programs]]
+path = "src/findmax.py"
+prime_size = 128
