@@ -4,9 +4,6 @@ import nada_numpy as na
 DIM = 10
 
 def maxnum(array: na.NadaArray):
-    # The result (the index of the argmax)
-    result = Integer(-1)
-
     # The current index of the loop. It is set to be a public value
     current_index = Integer(0)
 
