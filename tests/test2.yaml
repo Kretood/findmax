@@ -1,0 +1,15 @@
+---
+program: findmax
+inputs:
+  array_0: 10
+  array_1: 0
+  array_2: -1
+  array_3: 40
+  array_4: 99
+  array_5: 33
+  array_6: 22
+  array_7: 11
+  array_8: 0
+  array_9: 3
+expected_outputs:
+  maxnum: 99
